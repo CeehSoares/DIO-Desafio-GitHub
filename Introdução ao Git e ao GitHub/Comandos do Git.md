@@ -1,7 +1,9 @@
 ## Comandos do Git que precisa conhecer
 
 **cd** - navegar entre as pastas.
+
 **cd ..** - voltar um nível na pasta.
+
 **ls** - listar diretórios.
 **mkdir** - criar pasta.
 **git init** - iniciar repositório.
