@@ -1,4 +1,4 @@
-## Comandos do Git que precisa conhecer
+## Comandos do Git que você precisa conhecer
 
 **cd** - navegar entre as pastas.
 
