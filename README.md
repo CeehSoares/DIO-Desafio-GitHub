@@ -1,4 +1,4 @@
-# DIO-Desafio-GitHub
+# DIO-Desafio de Projeto-Git e GitHub
 Repositório criado para o desafio de projeto do Bootcamp da DIO sobre Git e GitHub.
 
 ## Links Úteis
