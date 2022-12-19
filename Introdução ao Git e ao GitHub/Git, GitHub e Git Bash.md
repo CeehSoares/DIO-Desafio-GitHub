@@ -1,4 +1,4 @@
-#Git, GitHub e Git Bash
+﻿#Git, GitHub e Git Bash
 
 Git - é um sistema de versionamento de códigos compartilhados (open-source).
 
